@@ -25,7 +25,7 @@ Hey there! I'm **Vishnu**, a passionate **Computer Science and Engineering stude
 I love building scalable web applications, exploring **AI & drone technologies**, and contributing to **open source**.
 
 Currently, I'm working on **Eventopia** — a platform to showcase **upcoming events across IIITs, NITs, and IITs**.  
-I'm also learning more about **full-stack development, Git, and open collaboration**.
+I'm also learning more about **full-stack development, Git, and collaborative open source projects**.
 
 ---
 
@@ -34,7 +34,7 @@ I'm also learning more about **full-stack development, Git, and open collaborati
 **Frontend:** HTML • CSS • JavaScript • React • TailwindCSS  
 **Backend:** Node.js • Express.js • MongoDB  
 **Tools & Platforms:** Git • GitHub • Postman • VS Code • WSL  
-**Other Interests:** Drones • Teaching • Open Source Research Experience (OSRE)  
+**Other Interests:** Drones • Teaching • Open Source Research Experience (OSRE)
 
 ---
 
@@ -61,7 +61,7 @@ A web platform for students to browse, submit, and manage **engineering events**
 ## 🤝 Contact
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vishnu-sindhal" target="_blank">
+  <a href="https://www.linkedin.com/in/vishnu-teli-746569327/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:vishnusindhal@gmail.com" target="_blank">
